@@ -1,7 +1,9 @@
 const Home = () =>{
     return(
         <div>
-            <h1>I am Pine!</h1>
+            <h1 class="text-3xl font-bold underline">
+                Hello world!
+            </h1>
         </div>
     )
 }
